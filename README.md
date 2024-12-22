@@ -163,7 +163,7 @@ Adjusting the classification threshold to improve sensitivity to high-risk cases
 Exploring advanced algorithms like Gradient Boosting for better performance.
 
 
-#### Conclusion
+# Conclusion
 Preffered Model: Random Forest
 Given its high accuracy (0.93), strong recall for class 1 (0.72) and balanced performance across both classes, Random Forest should be chosen as the primary model for predicting loan default risk.
 It provides the best trade off between precision and recall, especially for the minority class (1).
